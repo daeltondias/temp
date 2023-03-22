@@ -68,7 +68,7 @@ export const Page1 = () => {
             placeholder=" "
             required
           />
-          <LabelForm>Company (Ex. Google)</LabelForm>
+          <LabelForm>Company</LabelForm>
         </GroupForm>
       </GridForm>
       <SubmitForm type="submit">Submit</SubmitForm>
